@@ -1,6 +1,7 @@
 # 📊 Morning Challenge: Tic-Tac-Toe
 
-<img width="392" height="429" alt="image" src="https://github.com/user-attachments/assets/3b2deadf-3111-4f25-bd3c-72b005ce30d1" />
+<img width="406" height="417" alt="image" src="https://github.com/user-attachments/assets/38bf2591-93b5-4b4c-aea9-95fe341d631d" />
+
 
 
 **Project Overview**
