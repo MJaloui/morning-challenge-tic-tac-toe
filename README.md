@@ -1,11 +1,10 @@
 # Tic-Tac-Toe Game
 
-<img width="406" height="417" alt="image" src="https://github.com/user-attachments/assets/38bf2591-93b5-4b4c-aea9-95fe341d631d" />
-
-
-
 **Project Overview**
 This is an interactive two-player Tic-Tac-Toe game built with objects. Players take turns clicking on the grid to place their marks (X or O) with the goal of getting three matches in a row.
+
+<img width="406" height="417" alt="image" src="https://github.com/user-attachments/assets/38bf2591-93b5-4b4c-aea9-95fe341d631d" />
+
 
 **Core Features**
 * Two-player gameplay with alternating turns between X and O.
